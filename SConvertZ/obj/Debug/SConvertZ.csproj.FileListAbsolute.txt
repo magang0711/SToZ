@@ -1,0 +1,7 @@
+C:\ZMG\TestCode\SToZ\SConvertZ\SConvertZ\bin\Debug\SConvertZ.dll
+C:\ZMG\TestCode\SToZ\SConvertZ\SConvertZ\bin\Debug\SConvertZ.pdb
+C:\ZMG\TestCode\SToZ\SConvertZ\SConvertZ\obj\Debug\SConvertZ.dll
+C:\ZMG\TestCode\SToZ\SConvertZ\SConvertZ\obj\Debug\SConvertZ.pdb
+C:\ZMG\TestCode\SToZ\SConvertZ\SConvertZ\obj\Debug\SConvertZ.frmConvert.resources
+C:\ZMG\TestCode\SToZ\SConvertZ\SConvertZ\obj\Debug\SConvertZ.csproj.GenerateResource.Cache
+C:\ZMG\TestCode\SToZ\SConvertZ\SConvertZ\obj\Debug\SConvertZ.csprojResolveAssemblyReference.cache
