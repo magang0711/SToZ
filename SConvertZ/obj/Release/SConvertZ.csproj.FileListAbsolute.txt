@@ -1,0 +1,7 @@
+E:\GitHubCode\SConvertZ\SConvertZ\bin\Release\SConvertZ.dll
+E:\GitHubCode\SConvertZ\SConvertZ\bin\Release\SConvertZ.pdb
+E:\GitHubCode\SConvertZ\SConvertZ\obj\Release\SConvertZ.csprojResolveAssemblyReference.cache
+E:\GitHubCode\SConvertZ\SConvertZ\obj\Release\SConvertZ.frmConvert.resources
+E:\GitHubCode\SConvertZ\SConvertZ\obj\Release\SConvertZ.csproj.GenerateResource.Cache
+E:\GitHubCode\SConvertZ\SConvertZ\obj\Release\SConvertZ.dll
+E:\GitHubCode\SConvertZ\SConvertZ\obj\Release\SConvertZ.pdb
